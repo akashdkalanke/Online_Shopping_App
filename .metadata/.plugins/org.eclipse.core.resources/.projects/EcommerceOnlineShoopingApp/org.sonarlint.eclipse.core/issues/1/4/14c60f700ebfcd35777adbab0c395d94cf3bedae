@@ -1,0 +1,10 @@
+
+^
+java:S11681"+Return an empty collection instead of null.(•πÔç8ÈæÌ¿ 0HÁRMAJORZ
+CODE_SMELL
+t
+java:S1612A"BReplace this lambda with method reference 'RuntimeException::new'.(«æ©R8ÖÈ ≈ 0H°RMINORZ
+CODE_SMELL
+t
+java:S1612""BReplace this lambda with method reference 'RuntimeException::new'.(«æ©R8ˇàå° 0HÎRMINORZ
+CODE_SMELL

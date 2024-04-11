@@ -1,0 +1,14 @@
+
+d	java:S8999";Do something with the "boolean" value returned by "delete".(æ‘‰üÿÿÿÿH†RMINORZBUG
+
+java:S40429"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æ‘‰üÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+|
+java:S2259 "RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(©š½­ûÿÿÿÿHˆRMAJORZBUG
+~	java:S116"SRename this field "BASEPATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ–ˆ¤H‹RMINORZ
+CODE_SMELL
+|
+java:S5361""HReplace this call to "replaceAll()" by a call to the "replace()" method.(˜ƒûıÿÿÿÿHŒRCRITICALZ
+CODE_SMELL
+|
+java:S2259 "RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(©š½­ûÿÿÿÿHRMAJORZBUG

@@ -1,0 +1,17 @@
+
+Z
+java:S3740("/Provide the parametrized type for this generic.(°ØçMHùRMAJORZ
+CODE_SMELL
+`
+java:S37400"/Provide the parametrized type for this generic.(µ±ÙüÿÿÿÿHúRMAJORZ
+CODE_SMELL
+`
+java:S37405"/Provide the parametrized type for this generic.(šÔ™®ùÿÿÿÿHûRMAJORZ
+CODE_SMELL
+‚
+java:S1192!"NDefine a constant instead of duplicating this literal "response sent" 3 times.(ã¸³ ùÿÿÿÿHüRCRITICALZ
+CODE_SMELL
+m
+java:S2583."CChange this condition so that it does not always evaluate to "true"(™¹¬ÿÿÿÿÿH€RMAJORZBUG
+q
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(°ØçMH„RCRITICALZVULNERABILITY

@@ -1,0 +1,12 @@
+
+‘
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(–è¹«üÿÿÿÿ8í…³ Ê0HìRMINORZ
+CODE_SMELL
+Œ
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆŸÏ8öóØìË0HîRMINORZ
+CODE_SMELL
+}	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(¢÷ûşøÿÿÿÿ8ê«ÀÉÊ0HğRMAJORZ
+CODE_SMELL
+‘
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø²Ùûùÿÿÿÿ8„ĞÒÅÊ0HñRMINORZ
+CODE_SMELL

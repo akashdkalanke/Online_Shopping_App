@@ -1,0 +1,26 @@
+
+ƒ
+java:S1128
+"RRemove this unused import 'org.springframework.web.bind.annotation.DeleteMapping'.(­ìÎªşÿÿÿÿHåRMINORZ
+CODE_SMELL
+[
+java:S3740K"/Provide the parametrized type for this generic.(í€æHçRMAJORZ
+CODE_SMELL
+½
+java:S1130s"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(î¥±ÅûÿÿÿÿHèRMINORZ
+CODE_SMELL
+[
+java:S3740/"/Provide the parametrized type for this generic.(÷‰Ó»HêRMAJORZ
+CODE_SMELL
+`
+java:S3740s"/Provide the parametrized type for this generic.(î¥±ÅûÿÿÿÿHëRMAJORZ
+CODE_SMELL
+`
+java:S3740n"/Provide the parametrized type for this generic.(‹˜ÉùÿÿÿÿHìRMAJORZ
+CODE_SMELL
+[
+java:S3740F"/Provide the parametrized type for this generic.(»®æ·HíRMAJORZ
+CODE_SMELL
+\
+java:S3740€"/Provide the parametrized type for this generic.(Öê†âHîRMAJORZ
+CODE_SMELL

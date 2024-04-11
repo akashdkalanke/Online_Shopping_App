@@ -1,0 +1,22 @@
+
+…
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Ã¥ßH¤RMINORZ
+CODE_SMELL
+Z
+java:S1452h"&Remove usage of generic wildcard type.(ñ¨‚ºûÿÿÿÿH¦RCRITICALZ
+CODE_SMELL
+Z
+java:S1452V"&Remove usage of generic wildcard type.(ëÚÞøüÿÿÿÿH§RCRITICALZ
+CODE_SMELL
+…
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Ã¥ßH¨RMINORZ
+CODE_SMELL
+Z
+java:S14523"&Remove usage of generic wildcard type.(Ãû¹åÿÿÿÿÿHªRCRITICALZ
+CODE_SMELL
+€
+java:S1192A"QDefine a constant instead of duplicating this literal "response sent!!!" 4 times.(­«ž™H«RCRITICALZ
+CODE_SMELL
+Z
+java:S1452G"&Remove usage of generic wildcard type.(¢²™¸þÿÿÿÿH°RCRITICALZ
+CODE_SMELL

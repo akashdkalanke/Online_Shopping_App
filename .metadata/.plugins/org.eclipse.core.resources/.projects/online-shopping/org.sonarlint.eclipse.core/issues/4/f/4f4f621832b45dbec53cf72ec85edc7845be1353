@@ -1,0 +1,57 @@
+
+[
+java:S3740À"/Provide the parametrized type for this generic.(ÕÊóH©	RMAJORZ
+CODE_SMELL
+c
+java:S1481a"2Remove this unused "orderResponse" local variable.(œ¶ò™şÿÿÿÿHª	RMINORZ
+CODE_SMELL
+[
+java:S3740Â"/Provide the parametrized type for this generic.(ÕÊóH¬	RMAJORZ
+CODE_SMELL
+j
+java:S2259´"DA "NullPointerException" could be thrown; "person" is nullable here.(çœäH­	RMAJORZBUG
+d
+java:S1481”"2Remove this unused "orderResponse" local variable.(œ¶ò™şÿÿÿÿH°	RMINORZ
+CODE_SMELL
+`
+java:S37407"/Provide the parametrized type for this generic.(»ïæşÿÿÿÿH²	RMAJORZ
+CODE_SMELL
+`
+java:S1481É"3Remove this unused "deliveryPerson" local variable.(©“éöH³	RMINORZ
+CODE_SMELL
+\
+java:S3740Ç"/Provide the parametrized type for this generic.(ˆÀ„H´	RMAJORZ
+CODE_SMELL
+[
+java:S3740["/Provide the parametrized type for this generic.(Û‡ËHµ	RMAJORZ
+CODE_SMELL
+½
+java:S11307"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(»ïæşÿÿÿÿH¶	RMINORZ
+CODE_SMELL
+[
+java:S3740‡"/Provide the parametrized type for this generic.(ÕÊóH¸	RMAJORZ
+CODE_SMELL
+[
+java:S3740‰"/Provide the parametrized type for this generic.(ÕÊóH¹	RMAJORZ
+CODE_SMELL
+a
+java:S3740"/Provide the parametrized type for this generic.(´ÀşŸşÿÿÿÿHº	RMAJORZ
+CODE_SMELL
+[
+java:S3740ù"/Provide the parametrized type for this generic.(ÕÊóH»	RMAJORZ
+CODE_SMELL
+[
+java:S3740V"/Provide the parametrized type for this generic.(è›™ÄH¼	RMAJORZ
+CODE_SMELL
+[
+java:S3740¼"/Provide the parametrized type for this generic.(ÕÊóH½	RMAJORZ
+CODE_SMELL
+\
+java:S3740À"/Provide the parametrized type for this generic.(ÎÁ€ÛH¾	RMAJORZ
+CODE_SMELL
+a
+java:S3740ş"/Provide the parametrized type for this generic.(êàØÓüÿÿÿÿH¿	RMAJORZ
+CODE_SMELL
+\
+java:S3740‹"/Provide the parametrized type for this generic.(ñ®Ö¶HÀ	RMAJORZ
+CODE_SMELL
